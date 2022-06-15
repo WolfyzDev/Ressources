@@ -35,8 +35,8 @@
     <li> Accesible sur un PDF et sur Git Books </li>
   </ul>
   
-  <h2> Contacter le support <h2>
-    <a href="https://discord.gg/xh7AhVKggm"> Par le serveyr Discord </a>
-    <p> Par mon discord : WolfyzDev#4123 </p>
-    <p> Par mail : wolfyzpro@gmail.com </p>
+  <h2> Contacter le support </h2>
+  <a href="https://discord.gg/xh7AhVKggm"> Par le serveyr Discord </a>
+  <p> Par mon discord : WolfyzDev#4123 </p>
+  <p> Par mail : wolfyzpro@gmail.com </p>
     
