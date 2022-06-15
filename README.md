@@ -1,8 +1,5 @@
 # Ressources
 
-[![star this repo](https://githubbadges.com/star.svg?user=Wolfyz Dev&repo=Ressources&style=default)](https://github.com/Wolfyz Dev/Ressources)
-[![fork this repo](https://githubbadges.com/fork.svg?user=Wolfyz Dev&repo=Ressources&style=default)](https://github.com/Wolfyz Dev/Ressources/fork)
-
 <h2> Quel est le principe ? </h2>
 <p> Sur ce repositories, vous allez pouvoir trouvez toutes les ressources qu'un passionné d'informatique, que ce soit un développeur ou un pen-tester, a besoin</p>
 <p> Ce que vous trouverez sur ce repositories ... </p>
