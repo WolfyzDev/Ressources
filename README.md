@@ -35,6 +35,10 @@
     <li> Accesible sur un PDF et sur Git Books </li>
   </ul>
   
+  <h2> Les contributeurs </h2>
+  <p> Merci beaucoup à vous pour votre participation :grin: </p>
+   ![GitHub Contributors Image](https://contrib.rocks/image?repo=WolfyzDev/Ressources)
+  
   <h2> Contacter le support </h2>
   <a href="https://discord.gg/xh7AhVKggm"> Par le serveyr Discord </a>
   <p> Par mon discord : WolfyzDev#4123 </p>
