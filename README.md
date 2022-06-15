@@ -37,10 +37,13 @@
   
   <h2> Les contributeurs </h2>
   <p> Merci beaucoup à vous pour votre participation :grin: </p>
+  
+  <p> Owner du projet - @WolfyzDev </p>
+  
    ![GitHub Contributors Image](https://contrib.rocks/image?repo=WolfyzDev/Ressources)
   
   <h2> Contacter le support </h2>
-  <a href="https://discord.gg/xh7AhVKggm"> Par le serveyr Discord </a>
+  <a href="https://discord.gg/xh7AhVKggm"> Par le serveur Discord </a>
   <p> Par mon discord : WolfyzDev#4123 </p>
   <p> Par mail : wolfyzpro@gmail.com </p>
     
