@@ -1,6 +1,6 @@
 name: Proposez une ressource 
 description: Venez proposez votre propre ressource 
-title: "[Bug]: "
+title: "[Ma ressource]: "
 labels: ["proposition de ressource"]
 assignees:
   - WolfyzDev
@@ -10,18 +10,10 @@ body:
     attributes:
       value: |
         Merci pour votre participation
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: Quel nom ? 
-      placeholder: ex. email@example.com
-    validations:
-      required: false
   - type: textarea
-    id: what-happened
+    id: Nom de la ressource
     attributes:
-      label: What happened?
+      label: Propostion de ressource 
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
@@ -30,10 +22,10 @@ body:
    - type: dropdown
     id: version
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Souhaitez-vous être noté comme contributeur ? 
+      description: 
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - Oui (Default)
+        - Non (Edge)
     validations:
       required: true
