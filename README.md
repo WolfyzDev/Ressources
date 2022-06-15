@@ -39,6 +39,7 @@
   <p> Merci beaucoup à vous pour votre participation :grin: </p>
   
   <p> Owner du projet - @WolfyzDev </p>
+  <p> Contributeur.trice - Allice
   
    ![GitHub Contributors Image](https://contrib.rocks/image?repo=WolfyzDev/Ressources)
   
