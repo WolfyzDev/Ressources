@@ -34,7 +34,7 @@ body:
     attributes:
       label: OS
       description: Sur quel système d’exploitation êtes vous ?
-      placeholder: Ex. Android, IOS, Windows, Linux, etc...
+      placeholder: Ex. Android, IOS 16, Windows 10, Linux (Debian), etc...
     validations:
       required: true
   - type: input
@@ -49,8 +49,9 @@ body:
   - type: input
     id: version
     attributes:
-      label: Version
+      label: Version Navigateur
       description: Version de votre navigateur
+      placeholder: Ex. 22
     validations:
       required: true
   - type: textarea
