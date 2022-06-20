@@ -35,6 +35,17 @@
     <li> Accesible sur un PDF et sur Git Books </li>
   </ul>
   
+  <h2> Règlement des contributions </h2> 
+  
+  1. Vous devez indiquez le thème précis de la ressource 
+  2. Vous devez indiquez la source de la ressource (le lien suffit à lui-même dans le cas d'un site mais c'est nécessaire pour un fichier PDF) 
+  3. Les fichiers envoyés doivent être sûrs (la vérification sera faite. Si ce n'est pas le cas, la ressource sera refusé)
+  4. Conformément à la législation française, aucune ressource pour un outil à caractére illégal dans un cadre non-éducatif sera refusé. 
+  Si l'usage de la ressource peut être illégal mais faite dans un but d'apprentissage, merci de le préciser.
+  5. Si c'est une ressource écrite par vous, merci de le précisez. 
+  Dans le cas d'une ressource écrite par vous, elle sera soumis à une reconnaissance de paternité mais sera en Open-Source (license CC Attribution - Pas d’Utilisation Commerciale 4.0 International) 
+  
+  
   <h2> Les contributeurs </h2>
   <p> Merci beaucoup à vous pour votre participation :grin: </p>
   
@@ -48,3 +59,15 @@
   <p> Par mon discord : WolfyzDev#4123 </p>
   <p> Par mail : wolfyzpro@gmail.com </p>
     
+  <h2> Diclamer </h2
+  <p> **EN AUCUN CAS LES CONTRIBUTEURS ET L'ORGANISATION EN CHARGE DE CE PROJET NE POURRONT ËTRE TENUS RESPONSABLES SI L'USAGE DES RESSOURCES PRESENTES ICI : ** </p>
+  <ul>
+    <li> ** ENTRAINE DES POURSUITES JUDICIAIRES, PENALES OU PROBLEMES D'ORDRES JURIDIQUES ** </li>
+    <li> ** ENTRAINE DES DOMMAGES SUR VOTRE ORDINATEUR, MATERIEL INFORMATIQUE, SITE, APPLICATIONS, ETC ... ** </li>
+    <li> ** CAUSE UN PROBLEME DE SECURITE (HACK DE LA PART DES PROPRIETAIRES DE LA RESSOURCE ** </li>
+  </ul>
+  <p> Sachez que nous ferons tout notre possible pour vérifier que l'usage de ces ressource sont sûrs. 
+
+   <h2> License <h2>
+     
+   <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.
