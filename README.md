@@ -53,7 +53,15 @@
     - La mention "Un contributeur anonyme"
   
   <h2> Les conditions et règles pour devenir  et être contributeur </h2>
-  1. Avoir fournis au moins 2 ressources 
+  <p> Pour les contributeurs classiques : </p>
+  
+  1. Interdiction de fermer une pull request ou une issue
+  2. Autorisation de créer des branches mais pas de les supprimer
+  3. Autorisation d'écrire dans les issues, pull request, discussion 
+  4. Interdiction de merge une pull request 
+  
+  <p>Seuls les contributeurs administrateurs sont exemptés de ces règles. </p>
+  
   <p> Autre règles à venir </p>
   
   <h2> Les contributeurs </h2>
@@ -67,6 +75,7 @@
   <p> Contributeurs classiques </p>
   <ul>
     <li> <a href="https://github.com/ena0">@ena0 </a> </li>
+    <li><a href=https://github.com/LACOSTAR91"> LACOSTAR91 </a></li>
   </ul>
    <p> Bots </p>
   <ul>
