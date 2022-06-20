@@ -30,11 +30,11 @@ body:
       label: Type de ressource 
       description: 
       options:
-        - Site Internet (Default)
-        - Logiciel (Edge)
-        - Projet Github (Edge)
-        - Vidéo (Edge)
-        - Autres (Edge)
+        - Site Internet
+        - Logiciel
+        - Projet Github
+        - Vidéo
+        - Autres
     validations:
       required: true
   - type: textarea
@@ -58,8 +58,8 @@ body:
       label: Souhaitez-vous être noté comme contributeur ? 
       description: 
       options:
-        - Oui (Edge)
-        - Non (Default)
+        - Oui
+        - Non
     validations:
       required: true
   - type: textarea
