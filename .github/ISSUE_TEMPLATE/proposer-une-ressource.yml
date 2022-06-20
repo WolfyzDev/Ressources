@@ -1,0 +1,85 @@
+name: Proposer une ressource
+description: Proposer une ressource à ajouter au Github et au site internet
+title: "[Ma ressource]: "
+labels: ["proposition de ressource"]
+assignees:
+  - WolfyzDev
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci pour votre participation
+  - type: input
+    id: name
+    attributes:
+      label: Nom de la ressource
+      placeholder: Ex. Github
+    validations:
+      required: true
+  - type: input
+    id: theme
+    attributes:
+      label: Thème de la ressource
+      description: How can we get in touch with you if we need more info?
+      placeholder: Ex. front-end, OSINT, etc...
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type de ressource 
+      description: 
+      options:
+        - Site Internet
+        - Logiciel
+        - Projet Github
+        - Vidéo
+        - Autres
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description de la ressource 
+      placeholder: Ex. Un projet github qui sert à ...
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Lien de la ressource
+      description: Lien pour utiliser/installer la ressource
+      placeholder: Ex. https://site.com/
+    validations:
+      required: false
+  - type: dropdown
+    id: contributor
+    attributes:
+      label: Souhaitez-vous être noté comme contributeur ? 
+      description: 
+      options:
+        - Oui
+        - Non
+    validations:
+      required: true
+  - type: textarea
+    id: complementaryInfos
+    attributes:
+      label: Informations complémentaires 
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact (adresse mail, discord ou autre)
+      placeholder: Ex. DISCORD#0000 / anonyme@site.com
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Règles de contribution
+      description: En envoyant cette issue, vous acceptez de suivre nos [Règles de contribution](https://github.com/WolfyzDev/Ressources/blob/main/README.md#-r%C3%A8glement-des-contributions-)
+      options:
+        - label: J'accepte de suivre vos Règles de contribution
+          required: true
