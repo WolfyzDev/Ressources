@@ -1,0 +1,46 @@
+name: Proposer une ressource
+description: Proposer une ressource à ajouter au Github et au site internet
+title: "[Ma ressource]: "
+labels: ["proposition de ressource"]
+assignees:
+  - WolfyzDev
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci pour votre participation
+  - type: input
+    id: title
+    attributes:
+      label: Nom de la ressource
+      description: How can we get in touch with you if we need more info?
+      placeholder: Ex: Github
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Propostion de ressource 
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: contributor
+    attributes:
+      label: Souhaitez-vous être noté comme contributeur ? 
+      description: 
+      options:
+        - Oui (Edge)
+        - Non (Default)
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Règles de contribution
+      description: En envoyant cette issue, vous acceptez de suivre nos [Règles de contribution](https://github.com/WolfyzDev/Ressources/blob/main/README.md#-r%C3%A8glement-des-contributions-)
+      options:
+        - label: J'accepte de suivre vos Règles de contribution
+          required: true
