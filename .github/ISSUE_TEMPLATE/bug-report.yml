@@ -1,0 +1,60 @@
+name: Bug report
+description: Report un soucis sur une ressource ou sur le site
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use Discord for questions: https://discord.gg/49SQqD6Kzz
+  - type: textarea
+    id: description
+    attributes:
+      label: Issue description
+      description: |
+        Décriver ce bug avec le plus de détail possible et comment reproduire ce bug.
+
+        Tip: Vous pouvez ajouter des images ou des fichiers en cliquant sur cet aire pour la sélectionner puis faite un glisser/déposer du fichier.
+      placeholder: |
+        Bug sur la page '...'
+        
+        Steps to reproduce with below code sample:
+        1. Aller sur '...'
+        2. Cliquer sur '...'
+        3. Ouvrez le '...'
+        4. Regarder l'erreur
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Comportement attendu
+      description: Une description claire et concise de ce à quoi vous vous attendiez.
+  - type: input
+    id: os
+    attributes:
+      label: OS
+      description: Sur quel système d’exploitation êtes vous ?
+      placeholder: Ex. Android, IOS, Windows, Linux, etc...
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Navigateur
+      description: |
+        Sur quel navigateur êtes vous ?
+      placeholder: Ex. Safari, Chrome, Brave, etc...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Version de votre navigateur
+    validations:
+      required: true
+  - type: textarea
+    id: additionnal
+    attributes:
+      label: Informations supplémentaire
+      description: Si vous avez d'autres informations à rajouter
