@@ -17,8 +17,9 @@
   <li> Des PDF et des fichiers sécurisés et vérifiés </li>
   <li> Des vidéos et des chaînes YouTube </li>
   <li> Et bien d'autres </li>
-  
-  <h2> Comment participer ? </h2>
+</ul>
+
+<h2> Comment participer ? </h2>
   <p> Pour participer, vous pouvez : </p>
   <ul>
     <li> Ouvrir une pull request ou une issue </li>
@@ -26,16 +27,16 @@
   </ul>
   <p> Tout les contributeurs seront indiqués sur le GitHub et sur le Discord (si ils le souhaitent bien sûr) </p>
   
-  <h2> Les fonctionnalités futures </h2>
+<h2> Les fonctionnalités futures </h2>
   <p> Une fois assez de ressources collectés, nous créeront des espaces où elles seront plus facilement disponible </p>
   <ul>
     <li> Accessibles sur le GitHub </li>
     <li> Accessibles sur un site créer sur GitHub Pages </li>
     <li> Accessible sur un PDF et sur Git Books </li>
   </ul>
+  </br>
   
-  
-  <h2> Les contributeurs </h2>
+<h2> Les contributeurs </h2>
   <p> Merci beaucoup à vous pour votre participation :grin: </p>
   
   <p> Owner du projet - <a href="https://github.com/WolfyzDev"> @WolfyzDev </a> </p>
@@ -56,21 +57,25 @@
    
    ![GitHub Contributors Image](https://contrib.rocks/image?repo=WolfyzDev/Ressources)
   
-  <h2> Contacter le support </h2>
-  <a href="https://discord.gg/xh7AhVKggm"> Par le serveur Discord </a>
-  <p> Par mon discord : WolfyzDev#4123 </p>
-  <p> Par mail : wolfyzpro@gmail.com </p>
+</br></br></br>
     
-  <h2> Disclaimer </h2
+<h2> Disclaimer </h2>
   <p><strong> EN AUCUN CAS LES CONTRIBUTEURS ET L'ORGANISATION EN CHARGE DE CE PROJET NE POURRONT ÊTRE TENUS RESPONSABLES SI L'USAGE DES RESSOURCES PRESENTES ICI : </strong></p>
   <ul>
     <li> <strong>ENTRAINE DES POURSUITES JUDICIAIRES, PENALES OU PROBLEMES D'ORDRES JURIDIQUES</strong> </li>
     <li> <strong>ENTRAINE DES DOMMAGES SUR VOTRE ORDINATEUR, MATERIEL INFORMATIQUE, SITE, APPLICATIONS, ETC ...</strong> </li>
     <li> <strong>CAUSE UN PROBLEME DE SECURITE (HACK DE LA PART DES PROPRIETAIRES DE LA RESSOURCE</strong> </li>
   </ul>
-  <p> Sachez que nous ferons tout notre possible pour vérifier que l'usage de ces ressources soit sûr. 
+  <p> Sachez que nous ferons tout notre possible pour vérifier que l'usage de ces ressources soit sûr. </p>
+  </br>
 
-   <h2> License <h2>
+<h2> Contacter le support </h2>
+  <h4> Par le serveur <a href="https://discord.gg/xh7AhVKggm"> Discord </a> </h4>
+  <h4> Par mon discord : WolfyzDev#4123 </h4>
+  <h4> Par mail : <a href="mailto:wolfyzpro@gmail.com">wolfyzpro@gmail.com</a> </h4>
+  </br>
+  
+<h2> License <h2>
      
    <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
      <img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br/>
