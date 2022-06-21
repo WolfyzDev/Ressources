@@ -17,5 +17,5 @@
   
   <h2> Les conditions et règles pour devenir et être contributeur </h2>
   1. Avoir fournis au moins 2 ressources
-
+</br></br>
 PS: Le règlement peut-être modifier à tout instant
