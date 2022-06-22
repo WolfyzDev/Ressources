@@ -10,3 +10,6 @@ tags: [ Logiciels & Outils, Site, Entreprise, Business & Marketing  , E-mail, Gr
 title: Unlayer, création de template d'email 
 visibility: hidden
 ---
+
+Cette page n'est pas pour les utilisateurs normaux mais pour les Admins du projet. 
+Si vous voyez cette page, merci de nous le signalez dans une issue ou sur Discord. 
