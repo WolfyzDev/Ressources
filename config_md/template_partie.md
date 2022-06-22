@@ -2,6 +2,9 @@
 visibility: hidden
 ---
 
+Cette page n'est pas pour les utilisateurs normaux mais pour les Admins du projet. 
+Si vous voyez cette page, merci de nous le signalez dans une issue ou sur Discord. 
+
 # Template_partie pour création de ressource (ADMIN)
 
 ## Alert 
