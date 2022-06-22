@@ -11,8 +11,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        Liste des tâches à faire pour le milestone de ce mois
+      value: Liste des tâches à faire pour le milestone de ce mois
   - type: input
     id: date
     attributes:
