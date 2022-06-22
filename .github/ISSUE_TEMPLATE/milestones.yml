@@ -11,6 +11,12 @@ assignees:
 body:
   
   - type: textarea
+    id: MinorTask
+    attributes:
+      label: Modifications mineurs (y compris sur le Discord) 
+    validations:
+      required: false
+  - type: textarea
     id: complementaryTask
     attributes:
       label: Autres tâches 
