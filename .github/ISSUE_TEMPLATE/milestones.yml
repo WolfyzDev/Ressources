@@ -37,6 +37,10 @@ body:
       placeholder: Ex. Ungit - Issue #40 - Proposé par @WolfyzDev
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Note : Les ressources non-rajouté à date du 30 juin seront à mettre dans le Milestone de juillet
    - type: textarea
     id: bug
     attributes:
@@ -45,8 +49,14 @@ body:
     validations:
       required: true
   - type: textarea
-    id: complementaryInfos
+    id: MinorTask
     attributes:
-      label: Informations complémentaires 
+      label: Modifications mineurs (y compris sur le Discord) 
+    validations:
+      required: false
+  - type: textarea
+    id: complementaryTask
+    attributes:
+      label: Autres tâches 
     validations:
       required: false
