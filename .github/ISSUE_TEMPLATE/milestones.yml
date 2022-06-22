@@ -10,6 +10,13 @@ assignees:
   - julescrepi
 body:
   
+   - type: textarea
+    id: bug
+    attributes:
+      label: Liste des bugs et problèmes à régler 
+      placeholder: Ex. Disfonctionnement du template A
+    validations:
+      required: true
   - type: textarea
     id: MinorTask
     attributes:
