@@ -13,3 +13,17 @@ visibility: hidden
 
 Cette page n'est pas pour les utilisateurs normaux mais pour les Admins du projet. 
 Si vous voyez cette page, merci de nous le signalez dans une issue ou sur Discord. 
+
+[!button variant="primary" text="Accéder au site "](https://site.com/)
+
+!!!info Info 
+
+Ceci n'est pas sponsorisé par le site ou l'entreprise en question. Nous ne sommes pas non plus affilié à leur entreprise. 
+
+!!!
+
+!!!light Une erreur ? Une amélioration à apporter ? 
+
+Faites-nous en part sur le Discord ou en ouvrant une issue ;)
+
+ !!!
