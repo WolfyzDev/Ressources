@@ -10,7 +10,7 @@ assignees:
   - julescrepi
 body:
   
-   - type: textarea
+  - type: textarea
     id: bug
     attributes:
       label: Liste des bugs et problèmes à régler 
