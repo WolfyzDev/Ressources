@@ -1,0 +1,66 @@
+name: Milestone 
+description: Liste des tâches à faire ce mois-ci (réservé aux admins)
+title: "[Milestone]: "
+labels: ["Milestone"]
+assignees:
+  - WolfyzDev
+  - Sn0wAlice
+  - ena0
+  - LACOSTAR91
+  - julescrepi
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Liste des tâches à faire pour le milestone de ce mois
+  - type: input
+    id: date
+    attributes:
+      label: Mois concerné
+      placeholder: Ex. 07/2022
+    validations:
+      required: true
+  - type: textarea
+    id: principal_task
+    attributes:
+      label: Liste des tâches principales 
+      placeholder: Ex. Création de la page contact
+    validations:
+      required: true
+  - type: textarea
+    id: ressource_research 
+    attributes:
+      label: Liste des issues à rajouter
+      placeholder: Ex. Liste des meilleures  extensions sur VS Code
+    validations:
+      required: true
+   - type: textarea
+    id: ressource_issue
+    attributes:
+      label: Liste des ressources dans les issues 
+      placeholder: Ex. Ungit - Issue #40 - Proposé par @WolfyzDev
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Note : Les ressources non-rajouté à date du 30 juin seront à mettre dans le Milestone de juillet
+   - type: textarea
+    id: bug
+    attributes:
+      label: Liste des bugs et problèmes à régler 
+      placeholder: Ex. Disfonctionnement du template A
+    validations:
+      required: true
+  - type: textarea
+    id: MinorTask
+    attributes:
+      label: Modifications mineurs (y compris sur le Discord) 
+    validations:
+      required: false
+  - type: textarea
+    id: complementaryTask
+    attributes:
+      label: Autres tâches 
+    validations:
+      required: false
