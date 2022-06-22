@@ -38,7 +38,7 @@ body:
     id: ressource_issue
     attributes:
       label: Liste des ressources dans les issues 
-      placeholder: Ex. Ungit - Issue #40 - Proposé par @WolfyzDev
+      placeholder: Ex. Ungit - Issue 40 - Proposé par @WolfyzDev
     validations:
       required: true
   - type: markdown
