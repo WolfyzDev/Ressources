@@ -12,7 +12,8 @@ title: Sommaire
 ## Voici la liste de toutes les ressources de ce site : 
 
 ==- [Logiciels et outils](./Logiciels_et_outils/sommaire.md)
-[!button variant="primary" text="Primary"](./Logiciels_et_outils/Unlayer.md)
+[!button variant="primary" text="Unlayer"](./Logiciels_et_outils/Unlayer.md)
+[!button variant="primary" text="Vheat-Sheet VIM"](./Logiciels_et_outils/cheat-sheet_vim.md)
 
 ===
 
