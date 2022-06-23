@@ -23,9 +23,9 @@ Voici, pour vous aider, un site réunissant sur une seule page la liste des touc
 
 Cliquez ici pour télécharger, soit en anglais, soit en français : 
 
-[!file](/Vim Cheat Sheet fr.pdf)
+[!file](VimCheatSheet_fr.pdf)
 
-[!file](/Vim Cheat Sheet_en.pdf)
+[!file](VimCheatSheet_en.pdf)
 
 !!!info Info
 
