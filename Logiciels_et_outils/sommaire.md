@@ -7,3 +7,4 @@ Dans cette section, vous trouverez plein de logicis et outils pour :
 ## Liste des ressources
 
 [!button variant="primary" text="Unlayer : Création de template d'email stylisé"](./unlayer.md)
+[!button variant="primary" text="Vheat-Sheet VIM"](./cheat-sheet_vim.md)
