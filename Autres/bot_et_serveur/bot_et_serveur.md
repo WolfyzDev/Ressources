@@ -1,1 +1,5 @@
-# Bot et serveurs 
+---
+label: Bots et serveurs 
+icon: circle
+---
+# Bots et serveurs 

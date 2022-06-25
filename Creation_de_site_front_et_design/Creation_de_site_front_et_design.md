@@ -1,3 +1,8 @@
+---
+label: Front end
+icon: north-star
+---
+
 # Création de site : Front-end & Design 
 
 Dans cette section, retrouvez aussi bien : 

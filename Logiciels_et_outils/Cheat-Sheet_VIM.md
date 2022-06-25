@@ -5,9 +5,8 @@ Author:
    avatar : https://avatars.githubusercontent.com/u/93478889?s=48&v=4
 date: 2022-06-22
 description: Cheat-Sheet : VIM
-icon: "https://th.bing.com/th/id/OIP.vJx4ly74O4Sw-nSmraAafgHaE6?w=216&h=180&c=7&r=0&o=5&dpr=1.38&pid=1.7"
 tags: [ Logiciels & Outils, Cheat-Sheet, VIM, Gratuit]
-
+icon: circle
 
 ---
 
