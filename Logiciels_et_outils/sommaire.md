@@ -1,3 +1,7 @@
+---
+label: Sommaire
+icon: circle
+---
 # Logiciels et outils 
 
 Dans cette section, vous trouverez plein de logicis et outils pour : 

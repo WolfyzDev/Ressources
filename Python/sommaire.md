@@ -1,3 +1,8 @@
+---
+label: Sommaire
+icon: circle
+---
+
 # Python
 
 La liste des ressources trouvés sur le Python est tellement considérable qu'on se devait de faire une section consacré à cela. 

@@ -1,3 +1,7 @@
+---
+label: Backend
+icon: circle
+---
 # Backend : Base de donnés, PHP, serveurs, ...
 
 Dans cette section, vous trouverez des ressources pour : 

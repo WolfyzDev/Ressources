@@ -1,0 +1,18 @@
+
+branding:
+  title: Ressources                 # Your custom website title; keep it short.
+  logoAlign: right               # Align the logo to the right or the left.
+
+
+footer:
+  copyright: "© All rights reserved." # A custom copyright statement.
+
+search:          # Custom configuration of the website search component.
+  hotkeys:
+    - "/"        # Keyboard key to set the cursor focus into the search field.
+  maxResults: 20 # Max number of search results to render.
+  minChars: 2    # Min number of characters required to trigger a sear.ch
+  mode: full     # The search index creation mode.
+                 # Options include: full | partial | basic
+  noResultsFoundMsg: "No results" # Message when no results are found.
+  placeholder: Search # Placeholder text used in the search input field.

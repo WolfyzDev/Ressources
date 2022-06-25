@@ -1,3 +1,8 @@
+---
+label: Sommaire
+icon: repo
+---
+
 # Création d'applications + C++, C#, C, etc ... 
 
 Ici, nous abordons : 

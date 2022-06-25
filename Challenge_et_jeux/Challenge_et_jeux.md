@@ -1,3 +1,8 @@
+---
+label: Jeux, challenges
+icon: thumbsup
+---
+
 # Jeux, challenges et ressources amusantes
 
 Pourquoi les développeurs ne pourraient pas s'amuser de leurs passions. Ici, vous aurez : 
