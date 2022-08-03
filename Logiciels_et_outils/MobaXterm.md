@@ -25,9 +25,9 @@ Le logiciel est gratuit. Il dispose d'une version payante (50 €) mais la versi
 
 [!button variant="primary" text="Accéder au site "](https://mobaxterm.mobatek.net/)
 
-![Screen du site](C:\Users\wolfy\AppData\Roaming\Typora\typora-user-images\image-20220803161145666.png)
+![Screen du site](![image](https://user-images.githubusercontent.com/93478889/182632992-6ee6d46e-5b02-475f-9259-5dffe35cf684.png))
 
-![image-20220803161439474](C:\Users\wolfy\AppData\Roaming\Typora\typora-user-images\image-20220803161439474.png)
+![image](https://user-images.githubusercontent.com/93478889/182632832-76e47c44-0fcc-4994-80ba-2d6b36546e30.png)
 
 !!!info Info 
 
