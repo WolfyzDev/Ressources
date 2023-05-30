@@ -21,7 +21,7 @@ Sur ce repositorie, vous allez pouvoir trouvez toutes les ressources qu'un passi
 Pour participer, vous pouvez :
   
 -  Ouvrir une pull request ou une issue 
--  Passez par le serveur Discord : [Rejoindre le serveur Discord](https://discord.gg/xh7AhVKggm)
+-  Envoyer un message privé à Wolfyz sur Discord : Wolfyz#4123
   
   Tout les contributeurs seront indiqués sur le GitHub et sur le Discord (si ils le souhaitent bien sûr) <br>
   
@@ -38,11 +38,11 @@ Merci beaucoup à vous pour votre participation :grin:
 ### Owner du projet 
 - [@WolfyzDev](https://github.com/WolfyzDev)
   
-### Contributeur.trice Admin
+### Contributeur.trice Admin Edition 1.0
   
 - [@Sn0wAlice](https://github.com/Sn0wAlice)
   
-### Contributeurs  
+### Contributeurs Edition 1.0
 - [@ena0](https://github.com/ena0)
 - [@LACOSTAR91](https://github.com/LACOSTAR91)
   
@@ -59,6 +59,5 @@ Merci beaucoup à vous pour votre participation :grin:
 
 ## 📩 Contacter le support 
 
-- Par le serveur [Discord](https://discord.gg/xh7AhVKggm)
 - Par mon discord WolfyzDev#4123
 - Par mail [wolfyzpro@gmail.com](mailto:wolfyzpro@gmail.com)
