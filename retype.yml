@@ -1,11 +1,12 @@
 
 branding:
   title: Ressources                 # Your custom website title; keep it short.
-  logoAlign: right               # Align the logo to the right or the left.
+  logoAlign: right              # Align the logo to the right or the left.
+  logo: icontemp.png
 
 
 footer:
-  copyright: "© All rights reserved." # A custom copyright statement.
+  copyright: "Wolfyz Creators" # A custom copyright statement.
 
 search:          # Custom configuration of the website search component.
   hotkeys:
@@ -16,3 +17,6 @@ search:          # Custom configuration of the website search component.
                  # Options include: full | partial | basic
   noResultsFoundMsg: "No results" # Message when no results are found.
   placeholder: Search # Placeholder text used in the search input field.
+
+edit: 
+  favicon: icontemp.png

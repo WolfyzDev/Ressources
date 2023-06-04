@@ -27,9 +27,9 @@ Pour participer, vous pouvez :
   
 ## 📎 Les fonctionnalités futures 
 Une fois assez de ressources collectés, nous créeront des espaces où elles seront plus facilement disponible 
--  Accessibles sur le GitHub 
--  Accessibles sur un site créer sur GitHub Pages 
--  Accessible sur un PDF et sur Git Books 
+-  Accessibles sur le GitHub (format Markdown)
+-  Accessibles sur un site créer sur GitHub Pages (déployé avec Retype )
+-  Accessible sur un PDF et sur Git Books (en développement)
   
   
 ## 👾 Les contributeurs 
@@ -38,7 +38,7 @@ Merci beaucoup à vous pour votre participation :grin:
 ### Owner du projet 
 - [@WolfyzDev](https://github.com/WolfyzDev)
   
-### Contributeur.trice Admin Edition 1.0
+### Gérante Edition 1.0
   
 - [@Sn0wAlice](https://github.com/Sn0wAlice)
   
@@ -48,7 +48,16 @@ Merci beaucoup à vous pour votre participation :grin:
   
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=WolfyzDev/Ressources)
 
+Retrouvez la liste complète des contributeurs [ici](https://wolfyzdev.github.io/Ressources/contributeur/)
+
 ## 📩 Contacter le support 
 
 - Par mon discord WolfyzDev#4123
 - Par mail [wolfyzpro@gmail.com](mailto:wolfyzpro@gmail.com)
+
+## Remerciement 
+
+Un énorme merci tout d'abord à [Retype](https://retype.com/), un magnifique outil qui nous permet aujourd'hui de faire un magnifique site !
+Un énorme merci à tous les contributeurs et gérants de la Release 1.0, et plus particulièrement @Sn0wAlice !
+Un grand merci à Danalieth et à MasterDPro qui nous ont été d'un grand conseil 
+Enfin, un merci à vous tous, utilisateurs et contributeurs de ce projet ! C'est grâce à **vous** qu'on se développe. 

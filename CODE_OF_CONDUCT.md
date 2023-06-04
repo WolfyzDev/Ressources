@@ -24,17 +24,12 @@ En tant que Contributeurs, Contributrices et membres, vous vous engager à :
 Pour que vos ressources soient acceptés, elle doivent etre : 
 * Utile dans le monde de l'informatique, du design, ou de Discord 
 * Sécurisé et safe 
-* 
+
 
 Les ressources seront refusés si elles : 
 * Ne sont pas sécurisés, saines, ou illégals
-* 
+
 
 ## Une bonne proposition de ressource 
 
-Pour faciliter le travail et que les ressources soient le plus complète, voici les informations que nous souhaitons voir dans les propositions de ressource 
-* Le nom de la ressource
-* Le public de ressource (pour les développeurs, les desigenrs, les gérants de serveur Discord)
-* Un lien (vers le site ou le repositories GitHub)
-* Un descriptif, présicant l'utilité et le fonctionnement de la ressource 
-* Les pré-requis et le prix (ex. Uniquement fonctionnel sur MacOs, payant à 10 € sans formule gratuite)
+Pour cette section, merci de vous repérez au fichier [Contribution](https://wolfyzdev.github.io/Ressources/contributing/)
