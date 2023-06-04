@@ -47,15 +47,6 @@ Merci beaucoup à vous pour votre participation :grin:
 - [@LACOSTAR91](https://github.com/LACOSTAR91)
   
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=WolfyzDev/Ressources)
-  
-## ⚠️ Disclaimer 
-**EN AUCUN CAS LES CONTRIBUTEURS ET L'ORGANISATION EN CHARGE DE CE PROJET NE POURRONT ÊTRE TENUS RESPONSABLES SI L'USAGE DES RESSOURCES PRESENTES ICI :**
-  
--  *ENTRAINE DES POURSUITES JUDICIAIRES, PENALES OU PROBLEMES D'ORDRES JURIDIQUES* 
--  *ENTRAINE DES DOMMAGES SUR VOTRE ORDINATEUR, MATERIEL INFORMATIQUE, SITE, APPLICATIONS, ETC ...* 
--  *CAUSE UN PROBLEME DE SECURITE (HACK DE LA PART DES PROPRIETAIRES DE LA RESSOURCE* 
-  
-> Sachez que nous ferons tout notre possible pour vérifier que l'usage de ces ressources soit sûr. 
 
 ## 📩 Contacter le support 
 
