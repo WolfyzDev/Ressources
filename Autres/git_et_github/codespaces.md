@@ -31,3 +31,7 @@ Voici quelques points clés sur les Codespaces Github :
 
 
 Voici les étapes à suivre pour accéder au Codespace :
+
+
+1. Rendez vous dans le répertoire dont vous voulez obtenir un codespace.
+<img src="https://github.githubassets.com/images/modules/site/codespaces/illo-hero-1.png">
