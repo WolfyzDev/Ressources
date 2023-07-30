@@ -35,3 +35,11 @@ Voici les étapes à suivre pour accéder au Codespace :
 
 1. Rendez vous dans le répertoire dont vous voulez obtenir un codespace.
 <img src="https://github.githubassets.com/images/modules/site/codespaces/illo-hero-1.png">
+
+2. Cliquez sur le bouton vert avec écrit "Code" dessus et sélectionner codespace, vous devriez arriver ici:
+
+<img src="https://github.githubassets.com/images/modules/site/codespaces/illo-hero-menu.png">
+
+3. Vous n'avez plus qu'à cliquer sur "Create codespace" pour accéder à votre codespace :
+
+<img src="https://github.githubassets.com/images/modules/site/codespaces/illo-hero-ide.png">
