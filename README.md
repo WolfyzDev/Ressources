@@ -18,10 +18,7 @@ Sur ce repositorie, vous allez pouvoir trouvez toutes les ressources qu'un passi
 -  Et bien d'autres 
 
 ## 🪛 Comment participer ? 
-Pour participer, vous pouvez :
-  
--  Ouvrir une pull request ou une issue 
--  Envoyer un message privé à Wolfyz sur Discord : Wolfyz#4123
+Pour participer, il vous suffit d'**ouvrir une issue** dans laquelle vous indiquer votre ressource.
   
   Tout les contributeurs seront indiqués sur le GitHub et sur le Discord (si ils le souhaitent bien sûr) <br>
   
@@ -41,6 +38,10 @@ Merci beaucoup à vous pour votre participation :grin:
 ### Gérante Edition 1.0
   
 - [@Sn0wAlice](https://github.com/Sn0wAlice)
+
+### Contributeur Edition 2.0
+
+- [@louloudev59](https://github.com/louloudev59) 
   
 ### Contributeurs Edition 1.0
 - [@ena0](https://github.com/ena0)
@@ -52,8 +53,8 @@ Retrouvez la liste complète des contributeurs [ici](https://wolfyzdev.github.io
 
 ## 📩 Contacter le support 
 
-- Par mon discord WolfyzDev#4123
-- Par mail [wolfyzpro@gmail.com](mailto:wolfyzpro@gmail.com)
+- Par mon discord > wolfyzdpro
+- Par mail [wolfyz@creaweb.tech](mailto:wwolfyz@creaweb.tech)
 
 ## Remerciement 
 

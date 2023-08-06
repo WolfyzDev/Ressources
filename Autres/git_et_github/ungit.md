@@ -5,7 +5,7 @@ Author:
    link : https://github.com/WolfyzDev
    avatar : https://avatars.githubusercontent.com/u/93478889?s=400&u=f89aab73de2d23422cb217744da549a06b6a4eb4&v=4
 date: 2022-08-03
-description: Ungit : Visualsation graphique des modifiactions Git
+description: Ungit : Visualsation graphique des modifications Git
 tags: [ Logiciels & Outils, Git
 title: Ungit
 icon: circle
